@@ -49,6 +49,7 @@ https://github.com/Dmitry8815585/foodgram-project-react
 ### Опыт работы с DevOps
 
 https://github.com/Dmitry8815585/taski-docker
+
 https://github.com/Dmitry8815585/kittygram_final
 
 Реализовал проект, объединяющий два сервиса на одном веб-сервере. Настроил WSGI-сервер (Gunicorn), веб-сервер Nginx с шифрованием HTTPS. Использовал Docker для контейнеризации сервисов и автоматизировал процессы тестирования и деплоя с помощью GitHub Actions.
