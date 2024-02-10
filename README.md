@@ -88,5 +88,6 @@ https://github.com/Dmitry8815585/homework_bot
 ## Общая информация
 - Мой профиль GitHub: [Dmitry8815585](https://github.com/Dmitry8815585)
 - telegram: @DmitryPyDev
+- email: 8815585@gmail.com
 
 
