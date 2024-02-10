@@ -47,6 +47,7 @@ https://github.com/Dmitry8815585/foodgram-project-react
 **Стек проекта:** Python, Django, DRF, React (basics), Gunicorn, JWT, Postman, PostgreSQL, Docker, Nginx, Git, CI/CD
 
 ### Опыт работы с DevOps
+
 https://github.com/Dmitry8815585/taski-docker
 https://github.com/Dmitry8815585/kittygram_final
 
@@ -55,6 +56,9 @@ https://github.com/Dmitry8815585/kittygram_final
 **Стек проекта:** Docker, Nginx, Gunicorn, workflow, GitHub Actions, CI/CD, Linux
 
 ### Тестирование
+- unittest
+- pytest
+
 https://github.com/Dmitry8815585/django_testing
 
 ### Платформа для сбора отзывов
