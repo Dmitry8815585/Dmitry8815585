@@ -56,10 +56,12 @@ https://github.com/Dmitry8815585/kittygram_final
 **Стек проекта:** Docker, Nginx, Gunicorn, workflow, GitHub Actions, CI/CD, Linux
 
 ### Тестирование
+https://github.com/Dmitry8815585/django_testing
+
 - unittest
 - pytest
 
-https://github.com/Dmitry8815585/django_testing
+
 
 ### Платформа для сбора отзывов
 https://github.com/Dmitry8815585/api_yamdb_final
