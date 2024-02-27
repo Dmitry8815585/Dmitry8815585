@@ -88,6 +88,13 @@ https://github.com/Dmitry8815585/homework_bot
 
 **Стек проекта:** Python, Django, DRF, Telegram
 
+### Tekegram Bot отслеживания почтовых отправлений
+https://github.com/Dmitry8815585/belpost_tracker_bot
+
+Стек проекта: Python, Telegram API, Docker, logging, API Requests
+
+Этот проект представляет собой телеграм-бота, который позволяет пользователям отслеживать свои посылки по трек-коду. Пользователи могут отправлять трек-коды посылок боту, и бот будет периодически проверять статус посылок и уведомлять пользователей о их движении.
+
 ## Общая информация
 - Мой профиль GitHub: [Dmitry8815585](https://github.com/Dmitry8815585)
 - telegram: @DmitryPyDev
