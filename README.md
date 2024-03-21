@@ -39,9 +39,7 @@
 
 ## Проектная деятельность
 
-### Сайт для публикации рецептов
-
-https://foodgramfoodgram.ddns.net/recipes
+### [Сайт для публикации рецептов](https://foodgramfoodgram.ddns.net/)
 
 https://github.com/Dmitry8815585/foodgram-project-react
 
