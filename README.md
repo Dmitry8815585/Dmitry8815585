@@ -79,14 +79,14 @@ https://github.com/Dmitry8815585/django_sprint1
 
 **Стек проекта:** Python, Django, SQLite, Postman, JWT
 
-### Tekegram Bot отслеживания почтовых отправлений
+### [Tekegram Bot отслеживания почтовых отправлений](https://t.me/belpost_tracker_status_bot)
 https://github.com/Dmitry8815585/belpost_tracker_bot
 
 Стек проекта: Python, Telegram API, Docker, logging, API Requests
 
 Этот проект представляет собой телеграм-бота, который позволяет пользователям отслеживать свои посылки по трек-коду. Пользователи могут отправлять трек-коды посылок боту, и бот будет периодически проверять статус посылок и уведомлять пользователей о их движении.
 
-### Telegram Bot для поиска лучших курсов валют в выбранном пользователем городе.
+### [Telegram Bot для поиска лучших курсов валют в выбранном пользователем городе.](https://t.me/exchange_rates_byn_usd_eur_bot)
 https://github.com/Dmitry8815585/currency_exchange_information_bot
 
 Стек проекта: Python, Telegram API, Docker, logging, API Requests, beautifulsoup, threading
